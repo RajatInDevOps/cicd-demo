@@ -1,0 +1,14 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "CI/CD Demo App - Day 3 Training",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
